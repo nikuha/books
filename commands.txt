@@ -1,0 +1,2 @@
+scrapy startproject bookparser .
+scrapy genspider labirint labirint.ru
